@@ -10,3 +10,9 @@ def saca(conta, valor):
 
 def extrato(conta):
     print("saldo é {}".format(["saldo"]))
+
+
+class Musica:
+
+    def reproducoes(self):
+        self.contador += 1
